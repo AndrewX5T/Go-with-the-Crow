@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\DEVELOPMENT\\OOP2\\Final Project\\Birb-Sales-Website-01a\\Go with the Crow\\Go with the Crow\\Go with the Crow.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

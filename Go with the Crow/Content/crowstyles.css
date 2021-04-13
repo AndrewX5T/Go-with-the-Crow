@@ -1,0 +1,54 @@
+﻿html, body {
+    background-color: #343a40;
+}
+
+.image-right{
+    float: right;
+}
+
+.force-wrap{
+    word-wrap:break-word;
+}
+
+.grid-item {
+    float: left;
+    width: 98%;
+}
+
+a:hover{
+    text-decoration:none;
+    color:cornflowerblue;
+}
+
+.image-cover{
+    position:absolute;
+    width:75%;
+    top:50%;left:50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.crowjumbotron{
+    background-image: url("/UserImages/crowy.jpg");
+    background-position-y: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+/*sm*/
+@media (min-width:768px) {
+}
+
+/*md*/
+@media (min-width:992px) {
+    .grid-item {
+        width:48%;
+    }
+}
+
+/*lg*/
+@media (min-width:1200px) {
+    .grid-item {
+        width:23%;
+    }
+}
